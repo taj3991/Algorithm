@@ -42,8 +42,8 @@ public class Questions3 {
                     row++;
                 } else {
                     col--;
-                }
             }
+        }
 
             if (row < 0 || col < 0 || row > arrRows || col > arrCols) {
                 System.out.println("row:" + row + ";col:" + col);
