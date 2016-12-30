@@ -8,6 +8,7 @@ public class BinaryTreeNode {
     int value;
     BinaryTreeNode left;
     BinaryTreeNode right;
+    BinaryTreeNode parent;
 
     public BinaryTreeNode() {
 
