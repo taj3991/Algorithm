@@ -11,6 +11,8 @@ public class InsertSort {
         for(int i: numbers){
             System.out.print(i+"\t");
         }
+
+        String c = "1"+"2";
     }
 
 
